@@ -3,6 +3,7 @@ Website developed for WWW class in collaboration with Zaid Alian and Alex Birtwi
 http://comp3340.hazimea.myweb.cs.uwindsor.ca/mainPage.php
 
 sample log in names: 
+
 regular user - 
 u: user
 p: user123
